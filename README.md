@@ -138,7 +138,14 @@ A **local-first peer expense tracker** for college students, built with Flutter 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=k-a-r-s-a-n&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=k-a-r-s-a-n&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" width="100%" />
+
+<br/><br/>
+
+<!-- Backup, if the trophies above don't load: badge-style fallback -->
+<!--
+![Trophies](https://github-profile-trophy.vercel.app/?username=k-a-r-s-a-n&theme=onedark&row=1&column=7)
+-->
 
 </div>
 
@@ -148,7 +155,7 @@ A **local-first peer expense tracker** for college students, built with Flutter 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-a-r-s-a-n&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-a-r-s-a-n&theme=github-compact&hide_border=true&bg_color=0d1117&color=6D28D9&line=2563EB&point=ffffff" width="100%" />
 
 </div>
 
