@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:5b21b6&height=200&section=header&text=Hi%20There!%20I'm%20Karwin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Full-Stack%20%2B%20LLM%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:5b21b6&height=200&section=header&text=Hi%20There!%20I'm%20Karsan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Full-Stack%20%2B%20LLM%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Training;AI-Dependent+Vibe+Coder+%F0%9F%98%84;Learning+LLMs+%2B+Agents;Hackathon+Enthusiast+%F0%9F%9A%80;Building+Cool+Frontends+%2B+Clean+Backends" alt="Typing SVG" />
 
@@ -62,25 +62,62 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/k-a-r-s-a-n/AI-assisted-chip-design-automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=k-a-r-s-a-n&repo=AI-assisted-chip-design-automation&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/k-a-r-s-a-n/CivicLens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=k-a-r-s-a-n&repo=CivicLens&theme=radical&hide_border=true" />
-</a>
+### 🚗 [Car-Passport](https://github.com/k-a-r-s-a-n/Car-Passport)
 
-<a href="https://github.com/k-a-r-s-a-n/campus-quicksplit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=k-a-r-s-a-n&repo=campus-quicksplit&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/k-a-r-s-a-n/Car-Passport">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=k-a-r-s-a-n&repo=Car-Passport&theme=radical&hide_border=true" />
-</a>
+A public **Layer-2 (Polygon Amoy) DApp** that binds a car's VIN to an on-chain, append-only service ledger. The smart contract itself refuses any odometer entry lower than the last recorded reading — tamper-proof vehicle history, enforced by code.
 
-<!-- 📌 Pin more repos on GitHub and add their cards here as you build them -->
+`Blockchain` `Solidity` `Polygon` `JavaScript`
 
-</div>
+<img src="https://img.shields.io/github/stars/k-a-r-s-a-n/Car-Passport?style=flat-square&color=6D28D9&label=Stars" />
+<img src="https://img.shields.io/github/last-commit/k-a-r-s-a-n/Car-Passport?style=flat-square&color=2563EB&label=Last%20Commit" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [CivicLens](https://github.com/k-a-r-s-a-n/CivicLens)
+
+A live **public civic map & ward accountability leaderboard** for Indian cities — built for radical transparency in urban governance, so citizens can see how their local government is actually performing.
+
+`TypeScript` `Maps` `Civic Tech` `Full-Stack`
+
+<img src="https://img.shields.io/github/stars/k-a-r-s-a-n/CivicLens?style=flat-square&color=6D28D9&label=Stars" />
+<img src="https://img.shields.io/github/last-commit/k-a-r-s-a-n/CivicLens?style=flat-square&color=2563EB&label=Last%20Commit" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [AI-Assisted Chip Design Automation](https://github.com/k-a-r-s-a-n/AI-assisted-chip-design-automation)
+
+Uses **multiple AI models** to generate Verilog code from a plain-text prompt, then automatically writes testbenches to verify the generated hardware logic. AI meets digital design.
+
+`Python` `Verilog` `AI/LLM` `Hardware`
+
+<img src="https://img.shields.io/github/stars/k-a-r-s-a-n/AI-assisted-chip-design-automation?style=flat-square&color=6D28D9&label=Stars" />
+<img src="https://img.shields.io/github/last-commit/k-a-r-s-a-n/AI-assisted-chip-design-automation?style=flat-square&color=2563EB&label=Last%20Commit" />
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [Campus QuickSplit](https://github.com/k-a-r-s-a-n/campus-quicksplit)
+
+A **local-first peer expense tracker** for college students, built with Flutter — split bills, track dues, and settle up with friends without needing an account or server.
+
+`Flutter` `Dart` `Mobile` `Local-First`
+
+<img src="https://img.shields.io/github/stars/k-a-r-s-a-n/campus-quicksplit?style=flat-square&color=6D28D9&label=Stars" />
+<img src="https://img.shields.io/github/last-commit/k-a-r-s-a-n/campus-quicksplit?style=flat-square&color=2563EB&label=Last%20Commit" />
+
+</td>
+</tr>
+</table>
+
+<!-- 📌 Add new projects as a new <tr> block above, following the same card format -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -97,15 +134,37 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=k-a-r-s-a-n&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-a-r-s-a-n&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/k-a-r-s-a-n/k-a-r-s-a-n/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-a-r-s-a-n/k-a-r-s-a-n/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-a-r-s-a-n/k-a-r-s-a-n/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/k-a-r-s-a-n/k-a-r-s-a-n/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
-
-> ⚙️ To activate this, add a GitHub Actions workflow (`platane/snk`) to your `k-a-r-s-a-n` repo — details below.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
